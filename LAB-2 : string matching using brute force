@@ -27,3 +27,6 @@ int main() {
 
     return 0;
 }
+
+#OUTPUT:
+Pattern 'him' found in the input string.
