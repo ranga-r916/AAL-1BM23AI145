@@ -53,3 +53,13 @@ int main() {
     return 0;
 }
 
+# OUTPUT:
+Enter the number of elements in the array: 10
+array before bubble sort:
+72 54 33 99 22 89 14 65 11 37 
+
+array after bubble sort:
+11 14 22 33 37 54 65 72 89 99 
+
+Count: 40
+Time taken for bubble sort: 0.000312 seconds
