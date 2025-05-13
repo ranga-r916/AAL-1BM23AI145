@@ -49,3 +49,17 @@ int main() {
     printf("Total solutions: %d\n", solution_count);
     return 0;
 }
+#OUTPUT:
+Solution 1:
+ Q . . . 
+ . . Q . 
+ . Q . . 
+ . . . Q 
+
+Solution 2:
+ . . Q . 
+ Q . . . 
+ . . . Q 
+ . Q . . 
+
+Total solutions: 2
